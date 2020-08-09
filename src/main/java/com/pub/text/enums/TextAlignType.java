@@ -4,7 +4,6 @@ import com.pub.text.impl.Align;
 import com.pub.text.impl.CenterAlign;
 import com.pub.text.impl.LeftAlign;
 import com.pub.text.impl.RightAlign;
-import com.pub.text.interfaces.ITextAlign;
 
 public enum TextAlignType {
     CENTER("center"){
